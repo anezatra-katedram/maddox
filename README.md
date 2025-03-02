@@ -1,12 +1,12 @@
 # Maddox Search Engine v1.0 🔎
-![banner image](https://github.com/anezatra/maddox/blob/main/banner.jpg)
+![banner image](https://github.com/anezatra-katedram/maddox/blob/main/banner.jpg)
 ## What is a Maddox Search Engine ?
 **Maddox is an advanced device detection search engine designed to discover web servers and device models on the internet. It connects to servers through various ports, sends requests, and analyzes responses to identify specific search terms. This tool quickly scans random IP addresses and explores the content provided by the servers. It accelerates the scanning process using multi-threading and provides detailed server responses when matches are found.**
 ## What are the Advantages of Maddox? ✨
 **Maddox operates directly from the terminal, offering a streamlined and efficient user experience.** <br/>
 **It generates random IPs from 0.0.0.0 to 255.255.255.255 and receives server responses in less than 1 second using a socket connection.** <br/>
 **Key advantages of Maddox include:** <br><br/>
-![Banner](https://github.com/anezatra/maddox/blob/main/scan.jpg)
+![Banner](https://github.com/anezatra-katedram/maddox/blob/main/scan.jpg)
 
 ✅ Terminal-based operation with no GUI. <br/>
 ✅ Detects devices and servers in seconds. <br/>
